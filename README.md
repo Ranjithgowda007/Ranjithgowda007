@@ -1,41 +1,43 @@
-<!-- Banner Image (Optional) -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://your-banner-image-url.com/banner.png" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/rajasegar/rajasegar/main/assets/banner-github-mern.png" alt="React MERN Stack Banner" width="100%" />
 </p>
 
-# 👋 Hi there, I'm Ranjith!
-
+<!-- Avatar & Intro -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="120" alt="Ranjith's Avatar" />
+  <img src="https://avatars.githubusercontent.com/u/101684347?v=4" width="120" alt="Ranjith's Avatar" /><br>
+  <b>Hi there, I'm Ranjith!</b>
 </p>
-
-## 🧑‍💻 About Me
-
-I'm a passionate **React developer** with over a year of hands-on experience building responsive and scalable web applications. My expertise spans across the **MERN stack (MongoDB, Express.js, React, Node.js)**, and I frequently explore related technologies to deliver full-stack solutions.
-
-- 🔭 Currently working on exciting full-stack projects using React and Node.js.
-- 🌱 Continuously learning new tools and frameworks—recently exploring TypeScript and Next.js.
-- 💡 Strong problem-solving skills and a keen interest in crafting intuitive user interfaces.
-- 🤝 Open to collaborations on open source and innovative web projects.
 
 ---
 
-## 🖼️ Portfolio Highlights
+## 🧑‍💻 About Me
 
-<!-- Replace with your project images or GIFs -->
+I'm a passionate **React developer** specializing in building responsive and scalable web applications. My expertise centers on the **MERN stack (MongoDB, Express.js, React, Node.js)**, and I love exploring new tools and frameworks to deliver full-stack solutions.
+
+- 🔭 Currently working on innovative full-stack projects using React and Node.js.
+- 🌱 Learning TypeScript and Next.js to expand my skillset.
+- 💡 Enjoy solving real-world problems and crafting intuitive user experiences.
+- 🤝 Open to collaborations on open source and creative web projects.
+
+---
+
+## 🌟 Portfolio Highlights
+
 <p align="center">
-  <img src="https://your-project-image-url.com/project1.gif" width="300" alt="Project 1"/>
-  <img src="https://your-project-image-url.com/project2.png" width="300" alt="Project 2"/>
+  <img src="https://imgs.search.brave.com/1kPnbL124uzb5Q8WE8cAXM3EB8PLB_gkT-s1YkWCLTE/rs:fit:900:394:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vZ2Fq/Z2lYYWxzL2ZpLzJk/bmltY20/Z2luZXMxNmY4/ZDk2OTIxNmY4/ZDk2OTIxNmQy/LmdifQ" width="320" alt="Project 1" />
+  <img src="https://placehold.co/320x180/222/fff.png?text=Project+2" width="320" alt="Project 2" />
 </p>
-
-Check out my portfolio for more: [Portfolio](https://your-portfolio-url.com)
+<p align="center">
+  <a href="https://your-portfolio-url.com"><b>See more in my portfolio →</b></a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=fff&style=flat) 
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=fff&style=flat)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
@@ -57,7 +59,7 @@ Check out my portfolio for more: [Portfolio](https://your-portfolio-url.com)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=fff&style=flat)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=fff&style=flat)
 
-**Familiar:** Next.js, TypeScript, GraphQL
+<sub>**Familiar:** Next.js, TypeScript, GraphQL, Docker</sub>
 
 ---
 
@@ -72,9 +74,17 @@ Check out my portfolio for more: [Portfolio](https://your-portfolio-url.com)
 
 ## 📬 Let's Connect
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/ranjit-oo7/)
-- [![Portfolio](https://img.shields.io/badge/-Portfolio-222?logo=vercel&logoColor=fff&style=flat)](https://portfolio-main-weld-chi.vercel.app)
-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=fff&style=flat)](https://twitter.com/your-twitter)
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff&style=flat" />
+  </a>
+  <a href="https://your-portfolio-url.com">
+    <img src="https://img.shields.io/badge/-Portfolio-222?logo=vercel&logoColor=fff&style=flat" />
+  </a>
+  <a href="https://twitter.com/your-twitter">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=fff&style=flat" />
+  </a>
+</p>
 
 ---
 
