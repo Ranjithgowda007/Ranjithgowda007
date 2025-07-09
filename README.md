@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajasegar/rajasegar/main/assets/banner-github-mern.png" alt="React MERN Stack Banner" width="100%" />
+<img  alt="coding" src="https://imgs.search.brave.com/1kPnbL124uzb5Q8WE8cAXM3EB8PLB_gkT-s1YkWCLTE/rs:fit:900:394:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2Y1LzJk/LzU2L2Y1MmQ1NmY4/YjQyZmZiYTM1MTc4/ZDk2OTYxNWUwN2Nh/LmdpZg.gif"/> <br/>
 </p>
 
 <!-- Avatar & Intro -->
