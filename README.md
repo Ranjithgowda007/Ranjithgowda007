@@ -3,10 +3,10 @@
 <img  alt="coding" src="https://imgs.search.brave.com/1kPnbL124uzb5Q8WE8cAXM3EB8PLB_gkT-s1YkWCLTE/rs:fit:900:394:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2Y1LzJk/LzU2L2Y1MmQ1NmY4/YjQyZmZiYTM1MTc4/ZDk2OTYxNWUwN2Nh/LmdpZg.gif"/> <br/>
 </p>
 
-<!-- Profile avatar and name -->
+<!-- Profile avatar and name 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/101684347?v=4" width="120" alt="Ranjith's Avatar" />
-</p>
+</p> -->
 <h1 align="center">Hi, I'm Ranjith 👋</h1>
 
 ---
@@ -28,10 +28,10 @@ I love open source, building cool products, and learning new tech!
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.instagram.com/your-instagram/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-%23212121.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ranjit-oo7"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<!--  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a> -->
+  <a href="https://www.instagram.com/ranjii__oo7"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://portfolio-main-weld-chi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23212121.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 
