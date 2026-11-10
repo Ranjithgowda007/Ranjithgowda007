@@ -59,10 +59,10 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ranjithgowda007&theme=radical&show_icons=true&hide_border=false&count_private=true&cache_seconds=86400" height="165" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ranjithgowda007&theme=radical&hide_border=false&layout=compact&cache_seconds=86400" height="165" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ranjithgowda007&theme=radical&hide_border=false" height="165" />
