@@ -15,12 +15,11 @@
 
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
-Passionate **React / MERN Stack Developer** focused on crafting delightful, scalable, and robust web solutions.  
-I love open source, building cool products, and learning new tech!
+**Full-Stack Web Developer** with 2+ years of hands-on experience building scalable web applications using the React ecosystem, Node.js, and MongoDB. I enjoy working across the entire stack — from crafting intuitive UIs and design systems to building real-time backends and APIs.
 
-- 🔭 Working on full-stack apps with React, Node.js, and MongoDB
-- 🌱 Currently exploring **TypeScript** and **Next.js**
-- 🤝 Open to collaborations and freelance work
+- 🔭 Currently working at **Bharat Electronics Limited (BEL)** on a large-scale government platform
+- 🛠️ I build with **React, Next.js, TypeScript, Node.js, Express & MongoDB**
+- 🤝 Open to collaborations, open-source contributions, and freelance work
 - 🧑‍💻 Always up for solving interesting problems & contributing to the community
 
 ---
@@ -28,9 +27,7 @@ I love open source, building cool products, and learning new tech!
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ranjit-oo7"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<!--  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a> -->
-  <a href="https://www.instagram.com/ranjii__oo7"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ranjitgowda/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://portfolio-main-weld-chi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23212121.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
@@ -41,7 +38,9 @@ I love open source, building cool products, and learning new tech!
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222222&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=222&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Express.js-222222?logo=express&logoColor=fff&style=for-the-badge" />
@@ -54,8 +53,6 @@ I love open source, building cool products, and learning new tech!
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=fff&style=for-the-badge" />
 </p>
 
 ---
@@ -65,7 +62,10 @@ I love open source, building cool products, and learning new tech!
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ranjithgowda007&theme=radical&show_icons=true&hide_border=false&count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjithgowda007&theme=radical&hide_border=false&layout=compact" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjithgowda007&theme=radical&hide_border=false" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ranjithgowda007&theme=radical&hide_border=true" width="95%"/>
 </p>
 
 ---
