@@ -60,12 +60,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ranjithgowda007&theme=radical&show_icons=true&hide_border=false&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjithgowda007&theme=radical&hide_border=false&layout=compact" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ranjithgowda007&theme=radical&show_icons=true&hide_border=false&count_private=true&cache_seconds=86400" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ranjithgowda007&theme=radical&hide_border=false&layout=compact&cache_seconds=86400" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ranjithgowda007&theme=radical&hide_border=true" width="95%"/>
+  <img src="https://streak-stats.demolab.com?user=Ranjithgowda007&theme=radical&hide_border=false" height="165" />
 </p>
 
 ---
